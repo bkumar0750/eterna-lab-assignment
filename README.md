@@ -1,8 +1,8 @@
-# Axiom Trade – Pulse Frontend Assignment 
+# Axiom Trade – Pulse Frontend Assignment  
 
 # Bhuneshwar Netam  
 # 21MI31026 
-# IIT Kharagpur
+# IIT Kharagpur 
 
 Real-time token discovery interface built with React, TypeScript, Vite, and Tailwind CSS.
 
